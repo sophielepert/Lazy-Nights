@@ -2,7 +2,7 @@
 *Second project using HTML 5 / CSS 3 / JavaScript / React / MySQL / Node / Express *
 
 
-Members of the team : [Vincenzo Lo Grande](https://github.com/Ambre-Thevenin), [Etienne Fromentin](https://github.com/Arezki-kaki)
+Members of the team : [Vincenzo Lo Grande](https://github.com/Vinz19), [Etienne Fromentin](https://github.com/Eti-Fromentin)
 The project starts o the 18th of october. 
 Due date : 19th of november
 
